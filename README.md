@@ -68,7 +68,6 @@ The application features a modern, dark-themed interface designed for optimal us
 - Window size: 800x600 pixels for comfortable viewing
 - Color scheme:
   - Primary: Purple (#8E44AD)
-  - Secondary: Yellow (#FFC300)
   - Background: Dark (#1A1A1A)
   - Text: Light Gray (#ECF0F1)
 - Consistent button styling with hover effects
@@ -144,8 +143,4 @@ The project follows a modular architecture with separate components for:
 - Cloud storage integration
 - Performance optimizations for larger datasets
 
-# Live Demo
 
-```html
-https://www.youtube.com/embed/3EBdT-0gvu8
-```
